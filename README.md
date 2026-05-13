@@ -5,7 +5,7 @@
 
 <td align="center" width="25%">
 
-<img src="https://media.tenor.com/lhY8SLVE8QIAAAAi/tux-linux.gif" width="110"/>
+<img src="https://raw.githubusercontent.com/Maulina2705/Maulina2705/main/assets/tux.gif" width="110"/>
 
 </td>
 
@@ -15,13 +15,13 @@
 
 <br><br>
 
-<img src="https://media.tenor.com/BJw8M8L0Q9AAAAAi/work-in-progress.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/Maulina2705/Maulina2705/main/assets/rylsee-tooshytorap.gif" width="110"/>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://media.tenor.com/fD8Hj8m6uKAAAAAi/checkered-flag.gif" width="110"/>
+<img src="https://raw.githubusercontent.com/Maulina2705/Maulina2705/main/assets/checkered-flag-racing-flag.gif" width="110"/>
 
 </td>
 

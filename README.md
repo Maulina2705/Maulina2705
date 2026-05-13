@@ -1,32 +1,5 @@
 <div align="center">
 
-# Hi, I'm Maulina 👋
-
-Currently learning and building small projects step by step.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Loading+portfolio...;Currently+building...;Work+in+progress..." />
 
 </div>
-
----
-
-## About Me
-
-- Interested in AI, IoT, and web development
-- Learning by building projects
-- Exploring automation and realtime systems
-- Still growing and improving every day
-
----
-
-## Current Projects
-
-- Simulith
-- Responsive Calculator
-- More coming soon...
-
----
-
-## Status
-
-```txt
-building...
-```

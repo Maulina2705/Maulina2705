@@ -2,27 +2,29 @@
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-<img src="https://media.tenor.com/lhY8SLVE8QIAAAAM/tux-linux-tux-linux.gif" width="120px"/>
+<img src="https://media.tenor.com/lhY8SLVE8QIAAAAi/tux-linux.gif" width="110"/>
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Loading+portfolio...;Currently+building...;Work+in+progress..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=Loading+portfolio...;Currently+building...;Work+in+progress..." />
 
-<br>
+<br><br>
 
-<img src="https://media.tenor.com/BJw8M8L0Q9AAAAAM/rylsee-tooshytorap.gif" width="220px"/>
+<img src="https://media.tenor.com/BJw8M8L0Q9AAAAAi/work-in-progress.gif" width="180"/>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://media.tenor.com/fD8Hj8m6uKAAAAAM/checkered-flag.gif" width="120px"/>
+<img src="https://media.tenor.com/fD8Hj8m6uKAAAAAi/checkered-flag.gif" width="110"/>
 
 </td>
+
 </tr>
 </table>
 
